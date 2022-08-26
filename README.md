@@ -9,7 +9,7 @@ Currently I learn web development 👨‍💻  working privately since 2011 🚀
  <div align="center">
  <br />
  
-![skills](https://user-images.githubusercontent.com/110629832/186994946-56bb41e5-1a8f-413c-b12e-60b60813ad59.gif)
+![skills](assets/img/skills.gif)
 </div>
 
 <div align="center">
