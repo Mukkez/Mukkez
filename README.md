@@ -6,11 +6,11 @@
 Currently I learn web development 👨‍💻  working privately since 2011 🚀</div>
 
  
- <div align="center">
+ <!-- <div align="center">
  <br />
  
 ![skills](assets/img/skills.gif)
-</div>
+</div> -->
 
 <div align="center">
 <br/>
@@ -24,7 +24,7 @@ Currently I learn web development 👨‍💻  working privately since 2011 🚀
 
  <div align="center">
  
-<img src="https://komarev.com/ghpvc/?username=Mukkez&&style=flat-square" align="center" />
+ <img src="https://komarev.com/ghpvc/?username=Mukkez&&style=flat-square" align="center" /> 
 
 <br />
 
